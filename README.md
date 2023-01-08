@@ -9,7 +9,7 @@ what issues we had while implementing:
 during deploying the smart contract we had some errors regarding modules and typescript
 
 
-What all technologies we used: 
+What all technologies we used : 
 node.js
 
 hardhat
